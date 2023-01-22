@@ -2,6 +2,10 @@
 
 To use the application, just clone the repo. Go to the project's root directory then run `npm i` to install all dependencies. Then, run `npm start` to start the app. 
 
+---
+
+Live Site: [create-ancestral-tree](create-ancestral-tree.netlify.app)
+
 ### Shape of json data
 ```
 {
