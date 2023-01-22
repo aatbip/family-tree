@@ -4,7 +4,7 @@ To use the application, just clone the repo. Go to the project's root directory 
 
 ---
 
-Live Site: [create-ancestral-tree](create-ancestral-tree.netlify.app)
+Live Site: [create-ancestral-tree](https://create-ancestral-tree.netlify.app)
 
 ### Shape of json data
 ```
